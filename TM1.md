@@ -48,9 +48,11 @@ LDA -> Vanilla topic model 까지 해주고 라벨링은 직접해야한다
 TF - 단어 빈도수
 IDF - 문서 2개에 특정 단어가 5000번 나오면 IDF = 2
 문서 5000개에 걸쳐서 특정단어가 5000번나오면 IDF = 5000 이다
+만약 모든 문서 전체에 단어가 고르게 나오면 그 단어는 중요하지 않다(문서를 구분해주는 중요한 단어가 아니다)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODA2NTk0MiwtMTA3MjM3MDMwLDE1OD
-IxMTUwOTcsLTE3NTA4OTM3NDcsMTQzMjk0MjgyNiwtMTQwMjc5
-NTU3MCwtMTY3MzM4NjE0OSwtMTY3NjU1MzI5M119
+eyJoaXN0b3J5IjpbLTE3ODc3MTkyMDAsLTY0ODA2NTk0MiwtMT
+A3MjM3MDMwLDE1ODIxMTUwOTcsLTE3NTA4OTM3NDcsMTQzMjk0
+MjgyNiwtMTQwMjc5NTU3MCwtMTY3MzM4NjE0OSwtMTY3NjU1Mz
+I5M119
 -->
