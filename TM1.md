@@ -21,7 +21,8 @@
 
 ## Tokenization
 
+거리가 멀며
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI3OTU1NzAsLTE2NzMzODYxNDksLT
-E2NzY1NTMyOTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MzU1NjE3NDQsLTE0MDI3OTU1NzAsLT
+E2NzMzODYxNDksLTE2NzY1NTMyOTNdfQ==
 -->
