@@ -21,8 +21,9 @@
 
 ## Tokenization
 
-거리가 멀며
+거리가 가까우면 유사하고 멀면 다르다
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU1NjE3NDQsLTE0MDI3OTU1NzAsLT
-E2NzMzODYxNDksLTE2NzY1NTMyOTNdfQ==
+eyJoaXN0b3J5IjpbMTQzMjk0MjgyNiwtMTQwMjc5NTU3MCwtMT
+Y3MzM4NjE0OSwtMTY3NjU1MzI5M119
 -->
