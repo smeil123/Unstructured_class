@@ -23,7 +23,9 @@
 
 거리가 가까우면 유사하고 멀면 다르다
 
+## Text  Mining
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjk0MjgyNiwtMTQwMjc5NTU3MCwtMT
-Y3MzM4NjE0OSwtMTY3NjU1MzI5M119
+eyJoaXN0b3J5IjpbLTE3NTA4OTM3NDcsMTQzMjk0MjgyNiwtMT
+QwMjc5NTU3MCwtMTY3MzM4NjE0OSwtMTY3NjU1MzI5M119
 -->
