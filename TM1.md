@@ -33,9 +33,11 @@ Natural Language Processing : 앞글자를 보고 뒤에 단어가 나올 확률
 그래프
 빈도의 차이를 계산해서 그래프로 그림
 양끝쪽에 있는 단어 (babi, women)은 한쪽에서만 쓰고 다른쪽에서는 잘 사용하지 않은단어
-중간에 있는 단어는 
+중간에 있는 단어는 다른쪽도 쓰지만 한쪽이 그나마 더 많이 쓰는 단어(차이)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODgxMjE0NSwxNTgyMTE1MDk3LC0xNz
+eyJoaXN0b3J5IjpbMTQ0NTk0NTYwMiwxNTgyMTE1MDk3LC0xNz
 UwODkzNzQ3LDE0MzI5NDI4MjYsLTE0MDI3OTU1NzAsLTE2NzMz
 ODYxNDksLTE2NzY1NTMyOTNdfQ==
 -->
