@@ -42,9 +42,9 @@ Natural Language Processing : 앞글자를 보고 뒤에 단어가 나올 확률
 
 24
 텍스트를 이해하는데 도메인지식이 얼마나 중요하냐
-
+LDA -> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTQzNTg3NCwxNTgyMTE1MDk3LC0xNz
-UwODkzNzQ3LDE0MzI5NDI4MjYsLTE0MDI3OTU1NzAsLTE2NzMz
-ODYxNDksLTE2NzY1NTMyOTNdfQ==
+eyJoaXN0b3J5IjpbNzExMTEwMTM4LDE1ODIxMTUwOTcsLTE3NT
+A4OTM3NDcsMTQzMjk0MjgyNiwtMTQwMjc5NTU3MCwtMTY3MzM4
+NjE0OSwtMTY3NjU1MzI5M119
 -->
