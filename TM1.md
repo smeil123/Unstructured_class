@@ -30,8 +30,12 @@ Natural Language Processing : 앞글자를 보고 뒤에 단어가 나올 확률
 
 > 키워드 추출, 연관 키워드, 문서 분류, 개체의 관계 및 속성 추출
 
+그래프
+빈도의 차이를 계산해서 그래프로 그림
+양끝쪽에 있는 단어 (babi, women)은 한쪽에서만 쓰고 다른쪽에서는 잘 사용하지 않은단어
+중간에 있는 단어는 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjExNTA5NywtMTc1MDg5Mzc0NywxND
-MyOTQyODI2LC0xNDAyNzk1NTcwLC0xNjczMzg2MTQ5LC0xNjc2
-NTUzMjkzXX0=
+eyJoaXN0b3J5IjpbMTY1ODgxMjE0NSwxNTgyMTE1MDk3LC0xNz
+UwODkzNzQ3LDE0MzI5NDI4MjYsLTE0MDI3OTU1NzAsLTE2NzMz
+ODYxNDksLTE2NzY1NTMyOTNdfQ==
 -->
