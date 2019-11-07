@@ -7,8 +7,8 @@
 영어는 단어의 순서가 상당히 중요(어미변화가 없는 언어이기 때문에)한데, 컬럼벡터로는 이를 표현하지 못한다
 > Distributional hypothesis
 동일한 위치에 등장하는 단어들은 비슷한 의미를 갖는다
+> Extended Distributional hypothesis
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkyMDQ0MzgsLTE2NzY1NTMyOTNdfQ
-==
+eyJoaXN0b3J5IjpbMzE1OTU0NDgwLC0xNjc2NTUzMjkzXX0=
 -->
