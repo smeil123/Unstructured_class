@@ -9,15 +9,17 @@
 > Distributional hypothesis
 
 동일한 위치에 등장하는 단어들은 비슷한 의미를 갖는다
-
 > Extended Distributional hypothesis
 
 > Latent Relation Hypothesis
+
 백오브워드(2-mode)를 1-mode로 바꿈 
 단어간의 관계를 표현
 
+윈도우 슬라이딩하며 기준이 되는 단어를 기준으로 함께 나오는 단어를 카운트
 * 제출이라는 단어와 함께 많이 나온것 : 마감, 내일(연관검색어라고 생각)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTYxNjI2OCwtMTY3NjU1MzI5M119
+eyJoaXN0b3J5IjpbLTIxNDAzMDk1MTUsLTE2NzY1NTMyOTNdfQ
+==
 -->
