@@ -44,8 +44,11 @@ Natural Language Processing : 앞글자를 보고 뒤에 단어가 나올 확률
 텍스트를 이해하는데 도메인지식이 얼마나 중요하냐
 LDA -> Vanilla topic model 까지 해주고 라벨링은 직접해야한다
 
+38
+TF - 단어 빈도수
+IDF - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIzNzAzMCwxNTgyMTE1MDk3LC0xNz
-UwODkzNzQ3LDE0MzI5NDI4MjYsLTE0MDI3OTU1NzAsLTE2NzMz
-ODYxNDksLTE2NzY1NTMyOTNdfQ==
+eyJoaXN0b3J5IjpbMTI2ODM2MDE5MiwtMTA3MjM3MDMwLDE1OD
+IxMTUwOTcsLTE3NTA4OTM3NDcsMTQzMjk0MjgyNiwtMTQwMjc5
+NTU3MCwtMTY3MzM4NjE0OSwtMTY3NjU1MzI5M119
 -->
