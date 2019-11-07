@@ -19,7 +19,9 @@
 윈도우 슬라이딩하며 기준이 되는 단어를 기준으로 함께 나오는 단어를 카운트
 * 제출이라는 단어와 함께 많이 나온것 : 마감, 내일(연관검색어라고 생각)
 
+## Tokenization
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzMzODYxNDksLTE2NzY1NTMyOTNdfQ
-==
+eyJoaXN0b3J5IjpbLTE0MDI3OTU1NzAsLTE2NzMzODYxNDksLT
+E2NzY1NTMyOTNdfQ==
 -->
