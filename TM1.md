@@ -9,7 +9,10 @@
 동일한 위치에 등장하는 단어들은 비슷한 의미를 갖는다
 > Extended Distributional hypothesis
 
-> Latent Relation Hypothei
+> Latent Relation Hypothesis
+백오브워드(2-mode)를 1-mode로 바꿈 
+단어간의 관계를 표현
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Njc1NDY5MiwtMTY3NjU1MzI5M119
+eyJoaXN0b3J5IjpbNzYyNjYzMTM1LC0xNjc2NTUzMjkzXX0=
 -->
