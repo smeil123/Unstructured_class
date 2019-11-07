@@ -28,9 +28,10 @@
 Natural Language Processing : 앞글자를 보고 뒤에 단어가 나올 확률을 이용해서 문장의 구조를 태깅하는 방법
 하지만 우리는 구조보단 의미에 관심이 있기에 pass
 
+> 키워드 추출, 연관 키워드, 문서 분류, 개체의 관계 및 속성 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM3MzYzMDQsLTE3NTA4OTM3NDcsMT
-QzMjk0MjgyNiwtMTQwMjc5NTU3MCwtMTY3MzM4NjE0OSwtMTY3
-NjU1MzI5M119
+eyJoaXN0b3J5IjpbMTU4MjExNTA5NywtMTc1MDg5Mzc0NywxND
+MyOTQyODI2LC0xNDAyNzk1NTcwLC0xNjczMzg2MTQ5LC0xNjc2
+NTUzMjkzXX0=
 -->
