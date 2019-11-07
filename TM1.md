@@ -40,7 +40,7 @@ Natural Language Processing : 앞글자를 보고 뒤에 단어가 나올 확률
 카테고리를 모르는 경우 -> Fully Automated Clustering, Computer Assisted Clulstering
 카테고리를 모르고 카테고리가 여러개인 경우 -> LDA,..
 
-24
+24ㄴ
 텍스트를 이해하는데 도메인지식이 얼마나 중요하냐
 LDA -> Vanilla topic model 까지 해주고 라벨링은 직접해야한다
 
@@ -51,8 +51,8 @@ IDF - 문서 2개에 특정 단어가 5000번 나오면 IDF = 2
 만약 모든 문서 전체에 단어가 고르게 나오면 그 단어는 중요하지 않다(문서를 구분해주는 중요한 단어가 아니다)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc3MTkyMDAsLTY0ODA2NTk0MiwtMT
-A3MjM3MDMwLDE1ODIxMTUwOTcsLTE3NTA4OTM3NDcsMTQzMjk0
-MjgyNiwtMTQwMjc5NTU3MCwtMTY3MzM4NjE0OSwtMTY3NjU1Mz
-I5M119
+eyJoaXN0b3J5IjpbLTM5Mjg0OTg2NiwtMTc4NzcxOTIwMCwtNj
+Q4MDY1OTQyLC0xMDcyMzcwMzAsMTU4MjExNTA5NywtMTc1MDg5
+Mzc0NywxNDMyOTQyODI2LC0xNDAyNzk1NTcwLC0xNjczMzg2MT
+Q5LC0xNjc2NTUzMjkzXX0=
 -->
