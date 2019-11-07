@@ -46,9 +46,11 @@ LDA -> Vanilla topic model 까지 해주고 라벨링은 직접해야한다
 
 38
 TF - 단어 빈도수
-IDF - 
+IDF - 문서 2개에 특정 단어가 5000번 나오면 IDF = 2
+문서 5000개에 걸쳐서 특정단어가 5000번나오면 IDF = 5000 이다
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODM2MDE5MiwtMTA3MjM3MDMwLDE1OD
+eyJoaXN0b3J5IjpbLTY0ODA2NTk0MiwtMTA3MjM3MDMwLDE1OD
 IxMTUwOTcsLTE3NTA4OTM3NDcsMTQzMjk0MjgyNiwtMTQwMjc5
 NTU3MCwtMTY3MzM4NjE0OSwtMTY3NjU1MzI5M119
 -->
